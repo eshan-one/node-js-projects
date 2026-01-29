@@ -4,6 +4,7 @@ export default [
     description: "A green pie with an earthy crust",
     cost: 12.99,
   },
+
   {
     name: "Eggplant Smoothie",
     description: "A purple shake with an earthy quake",
